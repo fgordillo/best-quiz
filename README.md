@@ -36,11 +36,10 @@ npm run dev
 5. Store the answers to the questions in the main view and send them to the backend via `POST` request to check how many you got right.
 6. Show the result of the quiz.
 7. Let the user restart the quiz.
-8. Extra 1: Shuffle the order of the questions.
+8. Extra 1: Show a timer so once the time is over, the answers are automatically sent.
 9. Extra 2: Show one question at a time.
-10. Extra 3: Shuffle the order of the options to choose from in each question.
-11. Extra 4: Let the user restart the quiz.
-12. Extra 5: Store the maximum score and show it to the user.
+10. Extra 3: Let the user restart the quiz.
+11. Extra 4: Store the maximum score and show it to the user.
 
 ## How to add new questions
 
