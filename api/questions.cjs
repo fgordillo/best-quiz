@@ -179,8 +179,8 @@ module.exports = {
       id: 21,
       statement:
         "According to PA, how many Internal Events have Paco Gordillo attended?",
-      options: ["47", "56", "69", "70"],
-      rightAnswer: "70",
+      options: ["47", "56", "69", "71"],
+      rightAnswer: "71",
     },
     {
       id: 22,
